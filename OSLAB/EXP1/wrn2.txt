@@ -1,0 +1,8 @@
+fcfs.c: In function ‘main’:
+fcfs.c:34:1: warning: implicit declaration of function ‘getch’; did you mean ‘getc’? [-Wimplicit-function-declaration]
+   34 | getch();
+      | ^~~~~
+      | getc
+/usr/bin/ld: /tmp/cckOABvc.o: in function `main':
+fcfs.c:(.text+0x2d0): undefined reference to `getch'
+collect2: error: ld returned 1 exit status
