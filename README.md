@@ -21,5 +21,5 @@ int main(){
   printf("Hello world!");
 }
   ```
-View the code in the `StudentsController.cs` file [here](ttps://github.com/narsiimha19/CNOSLAB/blob/master/OSLAB/myfirst.c#L2-L24).
+View the code in the `StudentsController.cs` file [here](https://github.com/narsiimha19/CNOSLAB/blob/master/OSLAB/myfirst.c#L2-L24).
 
